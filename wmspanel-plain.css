@@ -6,9 +6,9 @@ body {
 	background: url(/images/home-bg.jpg) no-repeat center center;
 	position: absolute;
 }
-#header, #subheader, #footer {
+/* #header, #subheader, #footer {
   display: none;
-}
+} */
 .wrapper {
   width: 100%;
 }
